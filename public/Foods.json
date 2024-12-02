@@ -1,0 +1,39 @@
+[
+    {
+      "id": 1,
+      "name": "Burger",
+      "price": 599,
+      "time_duration": 15,
+      "img": "https://media.istockphoto.com/id/2061716709/photo/grilled-rib-burger.jpg?s=1024x1024&w=is&k=20&c=ufvzDK6Tt1KnS-1Dvx6SjvTCWoDZQoRgYXlsiXO8Rjo=",
+      "ingredients": ["Bun", "Beef Patty", "Lettuce", "Tomato", "Cheese", "Pickles"],
+      "calories": 350
+    },
+    {
+      "id": 2,
+      "name": "Pasta",
+      "price": 749,
+      "time_duration": 20,
+      "img": "https://cdn.pixabay.com/photo/2018/07/18/19/12/pasta-3547078_1280.jpg",
+      "ingredients": ["Pasta", "Tomato Sauce", "Olive Oil", "Garlic", "Basil", "Parmesan Cheese"],
+      "calories": 450
+    },
+    {
+      "id": 3,
+      "name": "Pizza",
+      "price": 999,
+      "time_duration": 25,
+      "img": "https://media.istockphoto.com/id/2023102269/photo/pizza-topped-with-fresh-basil-tomato-and-cheese-on-top-of-wooden-platter.jpg?s=1024x1024&w=is&k=20&c=5S3vBs6kSaV-0w27UnEgYyf_XoqIwEeUYhxY40WDUKY=",
+      "ingredients": ["Dough", "Tomato Sauce", "Cheese", "Pepperoni", "Olives", "Onions"],
+      "calories": 600
+    },
+    {
+      "id": 4,
+      "name": "Salad",
+      "price": 450,
+      "time_duration": 10,
+      "img": "https://media.istockphoto.com/id/1648578194/photo/chicken-breast-salad.jpg?s=1024x1024&w=is&k=20&c=oq40_D6mfETbQvH19ukMxSGKm1Z--UKtwZMx8Jwm0eA=",
+      "ingredients": ["Lettuce", "Cucumber", "Tomato", "Olives", "Feta Cheese", "Olive Oil"],
+      "calories": 200
+    }
+  ]
+  
